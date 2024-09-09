@@ -5,6 +5,9 @@
 [](https://github.com/jiisuuyaa/jisangha#%EC%A3%BC%EC%A0%9C)손가락을 셀 수 있고 왼손과 오른손을 구별할 수 있는 모델링 -> streamlit app 배포
 ![image](https://github.com/user-attachments/assets/882da202-287b-4703-adf8-315f18acb813)
 
+- mov
+https://github.com/user-attachments/assets/d44571c5-680a-4d0a-becc-2ec4dec4a55d
+
 # 🐶데이터 출처
 [](https://github.com/jiisuuyaa/jisangha#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%9C%EC%B2%98)~[https://www.kaggle.com/datasets/koryakinp/fingers](https://www.kaggle.com/datasets/koryakinp/fingers)~
 # ✨팀원소개
