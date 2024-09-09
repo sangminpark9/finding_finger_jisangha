@@ -6,7 +6,12 @@
 ![image](https://github.com/user-attachments/assets/882da202-287b-4703-adf8-315f18acb813)
 
 - mov
-https://github.com/user-attachments/assets/d44571c5-680a-4d0a-becc-2ec4dec4a55d
+
+
+
+https://github.com/user-attachments/assets/487528a3-5e49-4a8f-b1d1-9e3cb5f54100
+
+
 
 # 🐶데이터 출처
 [](https://github.com/jiisuuyaa/jisangha#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%9C%EC%B2%98)~[https://www.kaggle.com/datasets/koryakinp/fingers](https://www.kaggle.com/datasets/koryakinp/fingers)~
